@@ -33,21 +33,21 @@ In many student and hobbyist aerospace projects, telemetry systems are:
 4. Simulate flight data for development and testing.  
 
 ---
-
-## 📷 Screenshots  
-
-| Dashboard | Graph |
-|-----------|-------|
-| ![Dashboard](assets/Screenshot%202025-08-12%20195555.png) | ![Graph](assets/Screenshot%202025-08-12%20200033.png) |
+## 📸 Screenshots & Demo
+### Telemetry Simulation
+![Flight Data Graph](Screenshot%202025-08-12%20200033.png)
 
 ---
+### Flight Data Graph
+![Telemetry Simulation](Screenshot%202025-08-12%20200105.png)
 
-## 🎥 Live Demo  
+---
+### Ground Station Dashboard
+![Dashboard Screenshot](Screenshot%202025-08-12%20195555.png)
 
-**YouTube Demo Video:** [📺 Watch Here](https://youtu.be/example)  
-
-**GIF Preview:**  
-![Demo GIF](assets/demo.gif)  
+---
+## 🎥 Live Demo   Video
+[▶ Watch Demo](Screen Recording 2025-08-12 200136.mp4)
 
 ---
 
@@ -149,4 +149,5 @@ Telemetry packets are sent as JSON:
 ## 📜 License
 This project is licensed under the MIT License.  
 Feel free to use, modify, and distribute as long as proper credit is given.  
+
 
