@@ -2,8 +2,6 @@
 
 A real-time telemetry monitoring and manual ejection trigger system for rockets, UAVs, or high-altitude projects. The system includes a **Ground Station GUI** to display live flight data and a **Flight Simulator** for testing without hardware.  
 
-![Telemetry Dashboard](assets/dashboard_screenshot.png)  
-
 ---
 
 ## 📖 Introduction  
@@ -36,13 +34,20 @@ In many student and hobbyist aerospace projects, telemetry systems are:
 
 ---
 
-## 🎥 Demo  
+## 📷 Screenshots  
 
-**Simulation Mode:**  
-```bash
-python ground_station.py   # Start GUI
-python flight_simulator.py # Send test data
-```
+| Dashboard View | Live Graph View |
+|----------------|-----------------|
+| ![Dashboard](assets/dashboard_screenshot.png) | ![Graph](assets/demo_screenshot.png) |
+
+---
+
+## 🎥 Live Demo  
+
+**YouTube Demo Video:** [📺 Watch Here](https://youtu.be/example)  
+
+**GIF Preview:**  
+![Demo GIF](assets/demo.gif)  
 
 ---
 
@@ -54,6 +59,7 @@ python flight_simulator.py # Send test data
 ├── assets/
 │   ├── dashboard_screenshot.png
 │   ├── demo_screenshot.png
+│   ├── demo.gif
 ├── README.md               # Documentation
 ```
 
