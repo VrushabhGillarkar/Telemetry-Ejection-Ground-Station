@@ -36,9 +36,9 @@ In many student and hobbyist aerospace projects, telemetry systems are:
 
 ## 📷 Screenshots  
 
-| Dashboard View | Live Graph View |
-|----------------|-----------------|
-| ![Dashboard](assets/dashboard_screenshot.png) | ![Graph](assets/demo_screenshot.png) |
+| Dashboard | Graph |
+|-----------|-------|
+| ![Dashboard](assets/Screenshot%202025-08-12%20195555.png) | ![Graph](assets/Screenshot%202025-08-12%20200033.png) |
 
 ---
 
@@ -149,3 +149,4 @@ Telemetry packets are sent as JSON:
 ## 📜 License
 This project is licensed under the MIT License.  
 Feel free to use, modify, and distribute as long as proper credit is given.  
+
