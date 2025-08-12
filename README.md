@@ -110,15 +110,12 @@ This sends mock telemetry data to the Ground Station.
 
 📡 Live Telemetry
 The dashboard updates in real-time with:
-
+```
 Time (seconds)
-
 Altitude (meters)
-
 Velocity (m/s)
-
 Altitude vs Time graph
-
+```
 📦 UDP Data Format
 The telemetry data is sent as JSON:
 ```
@@ -132,11 +129,11 @@ Edit
 }
 ```
 💡 Notes
+```
 Ensure no other program is using the same UDP port (5005) to avoid socket binding errors.
-
 If using real hardware, update the UDP_IP and UDP_PORT values in ground_station.py to match your setup.
-
 The GUI is designed for expandability — you can add more parameters (e.g., GPS, battery voltage) easily.
+```
 
 
 
