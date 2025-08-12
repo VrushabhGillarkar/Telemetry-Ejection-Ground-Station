@@ -43,10 +43,19 @@ This project solves the problem by:
 
 ---
 
-## 📸 Demo
+## 📸 Screenshots & Demo
 
-![Ground Station Screenshot](screenshot.png)  
-*Example showing live telemetry display and graph plotting.*
+### Ground Station Dashboard
+![Dashboard Screenshot](Screenshot%202025-08-12%20195555.png)
+
+### Flight Data Graph
+![Flight Data Graph](Screenshot%202025-08-12%20200033.png)
+
+### Telemetry Simulation
+![Telemetry Simulation](Screenshot%202025-08-12%20200105.png)
+
+### Live Demo Video
+[▶ Watch Demo](Screen%20Recording%202025-08-12%20200136.mp4)
 
 ---
 
@@ -134,6 +143,7 @@ Ensure no other program is using the same UDP port (5005) to avoid socket bindin
 If using real hardware, update the UDP_IP and UDP_PORT values in ground_station.py to match your setup.
 The GUI is designed for expandability — you can add more parameters (e.g., GPS, battery voltage) easily.
 ```
+
 
 
 
